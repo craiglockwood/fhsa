@@ -1,26 +1,14 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)
+# FHSA - FoundersHub Space Administration
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+[FoundersHub](http://foundershub.co.uk) are taking on a mission to space. The mission is simple, get Brian the Robor into space, film it and get hin back down safely. This is a 4 week program for kids 7-14. More details on the [FoundersHub blog](http://foundershub.co.uk/blog/fhsa-space-cadets-required)
 
-## Getting Started
+## Working together
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+This is a non-profit project, any help in creating a great experience is appreciated. We would love other groups to do what we are doing. Things we would like on the site:
+* News/blog - a way to update the world after each of our sessions
+* Improved design - this is simply a bastardization of Bootstrap, it would be great if it had a bit more going on and was more appealing to kids
+* More stuff - it would be great if this site became a free reource for other groups around the country/world
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-grayscale/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
 
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
