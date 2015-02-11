@@ -1,6 +1,6 @@
 # FHSA - FoundersHub Space Administration
 
-[FoundersHub](http://foundershub.co.uk) are taking on a mission to space. The mission is simple, get Brian the Robor into space, film it and get hin back down safely. This is a 4 week program for kids 7-14. More details on the [FoundersHub blog](http://foundershub.co.uk/blog/fhsa-space-cadets-required)
+[FoundersHub](http://foundershub.co.uk) are taking on a mission to space. The mission is simple, get Brian the Robot into space, film it and get him back down safely. This is a 4 week program for kids 7-14. More details on the [live site](http://fhsa.org.uk)
 
 ## Working together
 
