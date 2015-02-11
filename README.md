@@ -4,7 +4,7 @@
 
 ## Working together
 
-This is a non-profit project, any help in creating a great experience is appreciated. We would love other groups to do what we are doing. Things we would like on the site:
+This is a non-profit project, any help in creating a great experience is appreciated. Pull requests are very much welcomed. We would love other groups to do what we are doing, this can only be acheived by having a site which allows us to share what we are doing. Things we would like on the site:
 * News/blog - a way to update the world after each of our sessions
 * Improved design - this is simply a bastardization of Bootstrap, it would be great if it had a bit more going on and was more appealing to kids
 * More stuff - it would be great if this site became a free reource for other groups around the country/world
