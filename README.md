@@ -9,6 +9,6 @@ This is a non-profit project, any help in creating a great experience is appreci
 * Improved design - this is simply a bastardization of Bootstrap, it would be great if it had a bit more going on and was more appealing to kids
 * More stuff - it would be great if this site became a free reource for other groups around the country/world
 
-## Bugs and Issues
+## Bugs and Issues.
 
 
